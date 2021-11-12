@@ -1,4 +1,7 @@
 VPC - Virtual Private cloud, control access
+Network is mandatory for creating instances
+When we create VPC we have to define subnet, a range of ips in VPC
+Route tables - set of rules, called routes to determine network trafic
 Regions consists of many AZ
 VM's on aws will run on one of the AZ
 Internal IP range is defined on VPC
